@@ -23,7 +23,7 @@ Cuprins
 1. [Cerinta 0x00 ](#_page9_x81.64_y165.19). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1. [Cerinta 0x01 ](#_page9_x81.64_y417.43). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1. [Cerinta 0x02 ](#_page10_x81.64_y350.53). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-1  Detalii<a name="_page1_x81.64_y106.36"></a> administrative
+
 1. Deadline
 
 <a name="_page1_x81.64_y126.19"></a>Puteti trimite solutiile cel tarziu pe 8 Ianuarie 2024, ora 23:59.
