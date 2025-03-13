@@ -4,66 +4,35 @@ Seriile 13, 14, 15 Noiembrie 2023
 
 Cuprins
 
-[1 Detalii administrative](#_page1_x81.64_y106.36) 2
+[1 Detalii administrative](#_page1_x81.64_y106.36) 
 
-1. [Deadline ](#_page1_x81.64_y126.19). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1. [Reamintirea punctajului pe tema . ](#_page1_x81.64_y174.76). . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1. [Transmitere .](#_page1_x81.64_y232.63) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1. [Ce se va transmite ](#_page1_x81.64_y430.34). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1. [Cum se va face evaluarea ](#_page1_x81.64_y522.50). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1. [Alte observatii ](#_page2_x81.64_y106.36). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1. [Deadline ](#_page1_x81.64_y126.19). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+1. [Reamintirea punctajului pe tema . ](#_page1_x81.64_y174.76). . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+2. [Alte observatii ](#_page2_x81.64_y106.36). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
-[2 Formularea temei](#_page3_x81.64_y106.36) 4
+[2 Formularea temei](#_page3_x81.64_y106.36) 
 
-[3 Cerinte](#_page6_x81.64_y106.36) 7
+[3 Cerinte](#_page6_x81.64_y106.36) 
 
-1. [Cerinta 0x00 - 5p .](#_page6_x81.64_y297.47) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-1. [Cerinta 0x01 - 2.5p .](#_page7_x81.64_y150.19) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
-1. [Cerinta 0x02 - 2.5p .](#_page8_x81.64_y192.53) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1. [Cerinta 0x00 - 5p .](#_page6_x81.64_y297.47) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+1. [Cerinta 0x01 - 2.5p .](#_page7_x81.64_y150.19) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+1. [Cerinta 0x02 - 2.5p .](#_page8_x81.64_y192.53) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
-[4 Inputuri concrete](#_page9_x81.64_y106.36) 10
+[4 Inputuri concrete](#_page9_x81.64_y106.36)
 
-1. [Cerinta 0x00 ](#_page9_x81.64_y165.19). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
-1. [Cerinta 0x01 ](#_page9_x81.64_y417.43). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
-1. [Cerinta 0x02 ](#_page10_x81.64_y350.53). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1. [Cerinta 0x00 ](#_page9_x81.64_y165.19). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+1. [Cerinta 0x01 ](#_page9_x81.64_y417.43). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+1. [Cerinta 0x02 ](#_page10_x81.64_y350.53). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1  Detalii<a name="_page1_x81.64_y106.36"></a> administrative
 1. Deadline
 
-<a name="_page1_x81.64_y126.19"></a>Putet, i trimite solutiile cel tarziu pe 8 Ianuarie 2024, ora 23:59.
+<a name="_page1_x81.64_y126.19"></a>Puteti trimite solutiile cel tarziu pe 8 Ianuarie 2024, ora 23:59.
 
 2. Reamintirea<a name="_page1_x81.64_y174.76"></a> punctajului pe tema
 
 Tema valoreaza 40% din nota la acest laborator (conform Cursului 0x00), si este necesara obtinerea notei 5 pentru promovare.
 
-3. Transmitere
-
-<a name="_page1_x81.64_y232.63"></a>Veti trimite solutiile in urmatoarele formulare, in functie de serie:
-
-- seria 13 (grupele 131 si 132): <https://forms.gle/koq26driB5ggJA1f8>
-- seria 13 (grupele 133 si 134): <https://forms.gle/ymFukZ4LRikBnhaw8>
-- seria 14: <https://forms.gle/NxV4cDubT5eksWPR9>
-- seria 15: <https://forms.gle/koq26driB5ggJA1f8>
-- optional matematica-informatica: <https://forms.gle/cnLay24h5ULxXPJPA>
-- restantieri: <https://forms.gle/HXXz5PR1GLCp5dMi9>
-
-Link-urile catre formulare vor fi completate in perioada imediat urmatoare. Va rugam sa reveniti in zilele urmatoare asupra acestui document.
-
-4. Ce<a name="_page1_x81.64_y430.34"></a> se va transmite
-
-Se vor incarca in formular trei surse (cate una pentru fiecare cerinta) cu denumirile grupa~~ - nume~~ prenume~~ 0.s, grupa~~ nume~~ prenume~~ 1.s, respectiv grupa~~ nume~~ prenume~~ 2.s. Daca aveti mai multe nume / prenume, veti incarca surse denumite, de exemplu, 172~~ GeorgescuXu- lescu~~ IonVasile~~ 0.s. Este important sa incarcati surse cu denumirea corecta, deoarece testarea
-
-va fi automata.
-
-5. Cum<a name="_page1_x81.64_y522.50"></a> se va face evaluarea
-
-Exista doi pasi pentru obt, inerea notei:
-
-- se verifica toate sursele sa nu fie cazuri de plagiat. In cazul in care se detecteaza plagiat, se face automat sesizare catre Comisia de Etica a Universitatii din Bucuresti ;
-- sursele care au trecut de verificarea anti-plagiat, vor fi testate automat.
-
-Important! Studentii care au alte configurari fata de cele pe care lucram la laborator, trebuie sa precizeze acest lucru in formularul in care transmit tema, pentru a putea efectua evaluarea si pentru a nu primi 0 implicit.
-
-6. Alte<a name="_page2_x81.64_y106.36"></a> observatii
+2. Alte<a name="_page2_x81.64_y106.36"></a> observatii
 1. Nu va interzicem sa discutati idei intre voi, dar aveti grija, deoarece este o diferenta importanta intre a da o idee si a da codul direct.
 1. Nu folositi convertoare automate din C/C++/alte limbaje in x86, le-am folosit si noi si recu- noastem fara dificultate un cod care nu este scris de voi.
 2  Formularea<a name="_page3_x81.64_y106.36"></a> temei
